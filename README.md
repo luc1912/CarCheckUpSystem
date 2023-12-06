@@ -1,2 +1,0 @@
-# CarCheckUpSystem
-Infinum academy project
