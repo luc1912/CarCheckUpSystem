@@ -1,2 +1,2 @@
 # CarCheckUpSystem
-Infinum academy project
+Infinum academy Spring Boot application project
